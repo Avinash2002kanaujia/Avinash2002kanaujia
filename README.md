@@ -1,94 +1,92 @@
 # Hi 👋, I'm Avinash Kanaujia
 
-### Associate Cloud Engineer Trainee @ NexTurn | .NET Developer
+### Associate Cloud Engineer Trainee @ NexTurn
 
 I'm an MCA graduate from **NIT Jamshedpur** and currently working as an **Associate Cloud Engineer Trainee at NexTurn**.
 
-I'm currently learning and working with **C#, .NET, ASP.NET Core, Azure and Cloud Technologies**. I also enjoy working on backend development, APIs and microservices.
+Right now, I'm mainly focused on **C#, .NET, ASP.NET Core, Azure and Cloud technologies**. I like building backend applications, working with APIs and databases, and learning how different services work together.
 
-### 👨‍💻 About Me
+### 👨‍💻 A little about me
 
 - 🎓 MCA Graduate from NIT Jamshedpur
-- 💼 Associate Cloud Engineer Trainee @ NexTurn
-- 💻 Working with C# and ASP.NET Core
-- ☁️ Learning Azure and Cloud Technologies
-- 🔧 Interested in Backend Development and Microservices
-- 🗄️ Experience with PostgreSQL, MySQL, SQL Server and MongoDB
-- 📨 Working with RabbitMQ and Azure Service Bus
-- 🔐 Learning authentication with JWT and Keycloak
-- 🐳 Learning Docker and DevOps
-- 🌱 Always trying to learn something new
+- 💼 Associate Cloud Engineer Trainee at NexTurn
+- 💻 Currently learning **C# and ASP.NET Core**
+- ☁️ Exploring **Azure and Cloud Engineering**
+- 🔨 Building **Web APIs and Microservices**
+- 🗄️ Working with **PostgreSQL, SQL Server, MySQL and MongoDB**
+- 📨 Learning **RabbitMQ and Azure Service Bus**
+- 🔐 Exploring **JWT, Keycloak and Azure Key Vault**
+- 🐳 Learning **Docker, Linux and DevOps**
+- 🌱 Learning something new every day
 
-### 🛠️ Languages & Technologies
+### 💻 Technologies I Work With
 
 **Languages**
 
-C# • C++ • Java • Python • JavaScript • SQL
+`C#` `C++` `Java` `Python` `JavaScript` `SQL`
 
-**.NET / Backend**
+**Backend / .NET**
 
-ASP.NET Core • Web API • MVC • Entity Framework Core • ADO.NET • Dapper • LINQ • REST APIs • Microservices
+`ASP.NET Core` `Web API` `MVC` `Entity Framework Core` `ADO.NET` `Dapper` `LINQ`
 
 **Frontend**
 
-HTML • CSS • JavaScript • React • Angular • Tailwind CSS
+`HTML` `CSS` `JavaScript` `React` `Angular` `Tailwind CSS`
 
 **Databases**
 
-PostgreSQL • MySQL • SQL Server • MongoDB
+`PostgreSQL` `SQL Server` `MySQL` `MongoDB`
 
-**Cloud & DevOps**
+**Cloud / DevOps**
 
-Azure • AWS • Docker • Git • GitHub • Linux • CI/CD
+`Azure` `AWS` `Docker` `Git` `GitHub` `Linux`
 
 **Other**
 
-RabbitMQ • Azure Service Bus • Keycloak • Azure Key Vault • JWT • OAuth 2.0
+`RabbitMQ` `Azure Service Bus` `Keycloak` `Azure Key Vault` `JWT`
 
-### 🚀 Some of My Projects
+### 🚀 Projects I've Worked On
 
-**🛒 Forever – E-Commerce Website**
+#### 📦 Order Management Microservices
 
-A full-stack e-commerce project built using the MERN stack.
+A microservices project where I worked with ASP.NET Core and RabbitMQ to communicate between services.
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Stripe` `Razorpay`
+**Tech:** C# • ASP.NET Core • PostgreSQL • RabbitMQ • Entity Framework Core
 
-**🎓 NIT JSR Student Query Chatbot**
+#### 👨‍🎓 Student Management System
 
-A multilingual RAG-based chatbot built to answer student queries related to NIT Jamshedpur.
+A CRUD-based application that helped me understand different approaches to working with databases in .NET.
 
-`Python` `LangChain` `ChromaDB` `HuggingFace` `LoRA` `Streamlit`
+**Tech:** ASP.NET Core • Web API • ADO.NET • EF Core • Dapper • PostgreSQL • Angular
 
-**📦 Order Management Microservices**
+#### 🎓 NIT JSR Student Query Chatbot
 
-A microservices project built using ASP.NET Core with RabbitMQ for communication between services.
+A multilingual RAG-based chatbot for answering student queries related to NIT Jamshedpur.
 
-`C#` `ASP.NET Core` `PostgreSQL` `RabbitMQ` `Entity Framework Core`
+**Tech:** Python • LangChain • ChromaDB • HuggingFace • LoRA • Streamlit
 
-**👨‍🎓 Student Management System**
+#### 🛒 Forever – E-Commerce Website
 
-A CRUD application where I worked with different approaches to database access in .NET.
+A full-stack e-commerce application built while learning MERN stack development.
 
-`ASP.NET Core` `Web API` `ADO.NET` `EF Core` `Dapper` `PostgreSQL` `Angular`
+**Tech:** React • Node.js • Express • MongoDB • JWT • Cloudinary • Stripe • Razorpay
 
-### 📚 What I'm Learning Right Now
+### 📖 Currently Learning
 
-- C# and Advanced .NET
-- ASP.NET Core
-- Entity Framework Core
-- Microservices
-- Azure
-- Docker & DevOps
-- Cloud Architecture
+I'm currently spending most of my time learning:
 
-### 📫 Connect With Me
+`C#` → `.NET` → `ASP.NET Core` → `Web API` → `EF Core` → `Microservices` → `Azure` → `DevOps`
 
-📧 **Email:** Avinashkanaujia2001@gmail.com
+### 📫 Find Me Here
 
-💻 **GitHub:** Avinash2002kanaujia
-
-💼 **LinkedIn:** Avinash Kanaujia
+- 📧 **Email:** Avinashkanaujia2001@gmail.com
+- 💻 **GitHub:** Avinash2002kanaujia
+- 💼 **LinkedIn:** Avinash Kanaujia
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ⚡ One thing about me
+
+I like learning by **building things**, breaking them, fixing them, and then trying to understand why they work.
+
+Thanks for visiting my profile! 🚀
